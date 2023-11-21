@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Bonachera</h1>
 <h3 align="center">I´m a systems engineering student. </h3>
 
-- 🔭 I’m currently working on [a](.)
+- 🔭 I’m currently working on [a](www.x.com)
 
 - 🌱 I’m currently learning _a_
 
