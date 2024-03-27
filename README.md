@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xavier Bonachera</h1>
-<h3 align="center">I´m a systems engineering student. </h3>
+<h3 align="center">I´m a informatics engineering student. </h3>
 
-- 🔭 I’m currently working on nothing 😔
+- 🔭 I’m currently working on becoming better everyday 😔
 
-- 🌱 I’m currently learning _a_
+- 🌱 I’m currently learning _HTML, CSS, Javascript_
 
 - 👯 I’m looking to collaborate on [.](.)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [.](.)
 
-- 💬 Ask me about _._
+- 💬 Ask me about _Anything_
 
 - 📫 How to reach me *xavierbonachera@outlook.com*
 
