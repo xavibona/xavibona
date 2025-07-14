@@ -5,25 +5,14 @@
 
 - 🌱 I’m currently learning _HTML, CSS, Javascript_
 
-- 👯 I’m looking to collaborate on [.](.)
-
-- 🤝 I’m looking for help with [.](.)
-
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 📝 I regularly write articles on [.](.)
-
 - 💬 Ask me about _Anything_
 
 - 📫 How to reach me *xavierbonachera@outlook.com*
 
-- 📄 Know about my experiences [.](.)
-
-- ⚡ Fun fact _._
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/xavi.bonachera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xavi.bonachera" height="30" width="40" /></a>
+<a href="https://instagram.com/xavibonachera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xavibonachera" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/xavibona/" target="blank"><img align="center" src="https://github.com/xavibona/xavibona/assets/149313013/648b896f-0475-4932-a6c6-171f5661d00a
 " alt="xavi.bonachera" height="30" width="40" /></a>
 </p>
